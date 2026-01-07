@@ -4,9 +4,9 @@ The task consists in classifying brain recordings: we have provided a baseline, 
 
 ## Experimental Setup
 
-The participant was told to think one of three things: (a) sing a particular song in your head (always the same one), (b) imagine using WhatsApp (always in the same way), (c) perform a mental arithmetic task of your choosing (these were always multiplications, examples: 15x37, 62x19, …). The participants cortical activity during this task was recorded with an [fNIRS](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy) scanner, in particular, the [Kernel Flow2](https://www.kernel.com/specs/Flow%202%20Spec%20Sheet.pdf). We provide the data, already processed, and a simple classification script.
+The participant was told to think one of three things: (a) sing a particular song in your head (always the same one), (b) imagine using WhatsApp (always in the same way), (c) perform a mental arithmetic task of your choosing (these were always multiplications, examples: 15x37, 62x19, …). The participant's cortical activity during this task was recorded with an [fNIRS](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy) scanner, in particular, the [Kernel Flow2](https://www.kernel.com/specs/Flow%202%20Spec%20Sheet.pdf). We provide the data, already processed, and a simple classification script.
 
-Download [the data here](https://drive.google.com/drive/folders/1gKdTGaIYbZ8yBP7q3RsSMRtRyI-lHmPM?usp=sharing), and view the script here. 
+Download [the data here](https://drive.google.com/drive/folders/1gKdTGaIYbZ8yBP7q3RsSMRtRyI-lHmPM?usp=sharing), and view the script in this repo. 
 
 Peak RAM usage is ~6.5GB, if this is an issue, feel free to rent a server online (e.g. via Paperspace or AWS) and we’ll reimburse your usage costs. The use of `memmap` and accompanying complexity is intended for RAM usage minimisation.
 
