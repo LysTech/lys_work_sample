@@ -14,7 +14,7 @@ Peak RAM usage is ~6.5GB, if this is an issue, feel free to rent a server online
 
 The first sub-task counts for 80% of the marks, the second one for the other 20%.
 
-1. Improve the overall classification accuracy of this script, you are welcome to do this through either better modelling or data processing. Full marks corresponds to 80% or more overall classification accuracy, but any meaningful improvement (+1 std error) is considered good work.
+1. Improve the overall classification accuracy of this script, you are welcome to do this through better modelling, data processing or both. Full marks corresponds to 80% or more overall classification accuracy, but any meaningful improvement (+1 std error) is considered good work.
 2. Improve the baseline script, by making it more memory efficient, faster or simpler. We leave it to you to decide what is most interesting or worthwhile here.
 
 These are the baseline results:
